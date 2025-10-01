@@ -1,3 +1,5 @@
 print('hello world!')
 print('nova modificação')
 print('Testando commits na nova branch')
+print('Novo teste da branch')
+print('Outro teste da branch')
